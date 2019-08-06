@@ -1,0 +1,6 @@
+## Aplicacion de comandos
+
+Recuerde instalar los paquetes de node asi
+ .....
+ npm install
+ .....
